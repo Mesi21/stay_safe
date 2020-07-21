@@ -1,24 +1,12 @@
-# README
+# SOON TO BE UPDATED...
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Stay Safe 
 
-Things you may want to cover:
+## Technologies:
 
-* Ruby version
+## Features
 
-* System dependencies
+## Future features:
 
-* Configuration
+## Contributors:
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
